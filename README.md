@@ -7,6 +7,8 @@ Pre meeting 6/21/2014 Kitchen Table Coders
 * Phillip
 * Heather
 * Taeyoon
-* 
+
 First meeting 
 * when? 
+* topic?
+* who? 
